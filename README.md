@@ -10,7 +10,7 @@
 
 - 📹 Start a Webex Teams meeting <a href="https://hcaconnect.webex.com/meet/cmccormack" target="_blank">with me</a>
 
-- ❓ Got a question? <a href="https://github.com/cmccormackpk/ama/issues/new" target="_blank">Ask Me Anything!</a>
+- ❓ Got a question? <a href="https://github.com/cmccormackpk/ama" target="_blank">Ask Me Anything!</a>
 
 - 🤝 I’m always looking to chat about **best practices for REST API design**
 
