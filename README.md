@@ -8,7 +8,7 @@
 
 - 📬 Send me an <a href="mailto:cmccormack@patientkeeper.com">Email</a> 
 
-- 📹 Start a Webex Teams meeting <a href="https://hcaconnect.webex.com/meet/cmccormack" target="_blank">with me</a>
+- 📹 Start a Webex Teams meeting <a href="https://patientkeeper.webex.com/meet/cmccormack" target="_blank">with me</a>
 
 - ❓ Got a question? <a href="https://github.com/cmccormackpk/ama" target="_blank">Ask Me Anything!</a>
 
