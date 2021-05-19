@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkainpk&label=Profile&views&color=0e75b6&style=flat" alt="tkainpk" /> </p>
 
-- 🔭 I’m currently working on **Argus Power BI Interface**
+- 🔭 I’m currently working on Argus **Power BI** and **Google BigQuery** interfaces
 
 - 💬 Ask me about **Argus Core, Argus Portal, and Site Access**
 
