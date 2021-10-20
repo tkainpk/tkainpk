@@ -2,13 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tkainpk&label=Profile&views&color=0e75b6&style=flat" alt="tkainpk" /> </p>
 
-- 🔭 I’m currently working on Argus **Power BI** and **Google BigQuery** interfaces
+- 🔭 I’m currently working on Argus **Power BI** interfacing
 
 - 💬 Ask me about **Argus Core, Argus Portal, and Site Access**
 
-- 📬 Send me an <a href="mailto:tkain@patientkeeper.com">Email</a> 
-
-- 📹 Start a Webex Teams meeting <a href="https://patientkeeper.webex.com/meet/tkain" target="_blank">with me</a>
+- 📬 Send me an <a href="mailto:tkain@commure.com">Email</a> 
 
 - ❓ Got a question or an idea? <a href="https://github.com/tkainpk/tkainpk/discussions/new" target="_blank">Ask Me Anything!</a>
 
